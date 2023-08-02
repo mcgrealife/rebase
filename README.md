@@ -8,3 +8,4 @@ Experimenting with rebase flows
 
 ## from feature-branch
 - commit from feature-branch 1
+- commit from feature-branch 3
